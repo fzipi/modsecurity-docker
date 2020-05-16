@@ -1,4 +1,4 @@
-FROM fedora:25
+FROM fedora:31
 MAINTAINER Chaim Sanders chaim.sanders@gmail.com
 
 # Install Prereqs
